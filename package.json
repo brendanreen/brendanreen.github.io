@@ -4,11 +4,7 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {},
-  "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-csso": "^3.0.1",
-    "gulp-sass": "^4.0.2"
-  },
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/brendanreen/brendanreen.github.io.git"
